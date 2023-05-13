@@ -1,4 +1,7 @@
 # YandexPracticum_auto_workflow
+
+[![On push status](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml)
+
 Bash script to autocreate workflow files. Based on Yandex.Practicum tutorial.
 
 github_actions.sh is the only file and command you'll need to create workflow.
