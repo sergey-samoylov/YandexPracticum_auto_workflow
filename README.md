@@ -1,6 +1,6 @@
 # YandexPracticum_auto_workflow
 
-[![On push status](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml)
+[![On push status](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/actions/workflows/main.yml)
 
 Bash script to autocreate workflow files. Based on Yandex.Practicum tutorial.
 
