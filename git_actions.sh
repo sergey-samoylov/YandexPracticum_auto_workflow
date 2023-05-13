@@ -57,3 +57,5 @@ per-file-ignores =
     */settings.py:E501
 max-complexity = 10 
 EOF
+
+git add . && git commit -m "GitActionsScript $(\date)" && git push
