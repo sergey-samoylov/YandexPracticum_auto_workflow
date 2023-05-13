@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 mkdir -p .github/workflows
+touch requirements.txt
 
 project_name=$(basename $(pwd))
 
