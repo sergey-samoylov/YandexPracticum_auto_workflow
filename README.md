@@ -19,4 +19,4 @@ github_actions.sh is the only file and command you'll need to create workflow.
 
 ![The only command you'll need](https://github.com/sergey-samoylov/YandexPracticum_auto_workflow/blob/main/img/gitactions_YandexPracticum_3a.png)
 
-- Spend more time to create something useful and beautifull! Don't waste your energy on boring repetitive tasks. They are to be automated.
+- Spend more time to create something useful and beautiful! Don't waste your energy on boring repetitive tasks. They are to be automated.
